@@ -1,5 +1,4 @@
 import * as React from 'react';
-import './image-marker.scss';
 import { calculateMarkerPosition } from './utils';
 
 const DEFAULT_BUFFER = 12;
